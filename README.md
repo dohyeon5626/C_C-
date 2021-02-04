@@ -37,8 +37,7 @@ This is a directory that organizes what I made in C
 
 - [**은행 프로젝트**](https://github.com/dohyeon5626/C_C-/tree/master/C%EC%96%B8%EC%96%B4/%EC%9D%80%ED%96%89%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_2020_08_01)
   
-Like **Bank**, This project includes **Adding Accounts**, **Deleting Accounts**, **Managing Accounts**, **Remittances**, **Deposits**, **Withdrawals**, and **Checking All Accounts**
-  
+  Like **Bank**, This project includes **Adding Accounts**, **Deleting Accounts**, **Managing Accounts**, **Remittances**, **Deposits**, **Withdrawals**, and **Checking All Accounts**
 - [**정렬**](https://github.com/dohyeon5626/C_C-/tree/master/C%EC%96%B8%EC%96%B4/%EC%A0%95%EB%A0%AC_2020_08_09)
 
   This directory contains code that implements the various **Sorting Method**
